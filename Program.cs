@@ -8,7 +8,11 @@ namespace classesStream
         {
             Console.WriteLine("Hello World!");
 
-            StreamWriter SW = new StreamWriter("Arquivo.txt"); //Criar um arquivo novo na pasta do projeto
+            StreamWriter sw = new StreamWriter("Arquivo.txt"); //Criar um arquivo novo na pasta do projeto
+            
+            sw.Write("Teste"); // Usado para acrescentar algo no arquivo especificado na variavel acima
+            sw.Close();
+
         }
     }
 }
