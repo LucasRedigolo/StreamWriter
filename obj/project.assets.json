@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\FIC\\Desktop\\classesStream\\classesStream.csproj",
+      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\classesStream\\classesStream.csproj",
       "projectName": "classesStream",
-      "projectPath": "c:\\Users\\FIC\\Desktop\\classesStream\\classesStream.csproj",
+      "projectPath": "C:\\Users\\FIC\\Desktop\\classesStream\\classesStream.csproj",
       "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\FIC\\Desktop\\classesStream\\obj\\",
+      "outputPath": "C:\\Users\\FIC\\Desktop\\classesStream\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

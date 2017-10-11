@@ -15,7 +15,7 @@ namespace classesStream
             sw.Close();
 
             FileInfo fi= new FileInfo("Arquivo.txt"); // uma variavel para incluir os dados do arquivo
-            System.Console.WriteLine("Tamanho " + fi.Length + " caracteres");
+            System.Console.WriteLine("Tamanho " + fi.Length + " caracteres"); // checar se é Kb ou caracteres
             System.Console.WriteLine("Criado em " + fi.CreationTime);
             System.Console.WriteLine("Extensão "+ fi.Extension);
                 
