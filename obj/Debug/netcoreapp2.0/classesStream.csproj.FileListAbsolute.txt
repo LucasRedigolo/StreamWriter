@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\classesStream\bin\Debug\netcoreapp2.0\classesStream.deps.json
+c:\Users\FIC\Desktop\classesStream\bin\Debug\netcoreapp2.0\classesStream.runtimeconfig.json
+c:\Users\FIC\Desktop\classesStream\bin\Debug\netcoreapp2.0\classesStream.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\classesStream\bin\Debug\netcoreapp2.0\classesStream.dll
+c:\Users\FIC\Desktop\classesStream\bin\Debug\netcoreapp2.0\classesStream.pdb
+c:\Users\FIC\Desktop\classesStream\obj\Debug\netcoreapp2.0\classesStream.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\classesStream\obj\Debug\netcoreapp2.0\classesStream.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\classesStream\obj\Debug\netcoreapp2.0\classesStream.AssemblyInfo.cs
+c:\Users\FIC\Desktop\classesStream\obj\Debug\netcoreapp2.0\classesStream.dll
+c:\Users\FIC\Desktop\classesStream\obj\Debug\netcoreapp2.0\classesStream.pdb
